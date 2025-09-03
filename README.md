@@ -49,4 +49,4 @@ This model can be used in:
 
 ---
 
-## 📦 Project Structure
+## 📦 Project link ["https://customer-segment-project555.streamlit.app/"]
